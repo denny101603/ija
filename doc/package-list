@@ -1,0 +1,6 @@
+project
+project.GUI
+project.common
+project.game
+project.game.commands
+project.game.figures
